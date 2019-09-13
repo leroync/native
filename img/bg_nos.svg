@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_370" data-name="Path 370" d="M0,1080H1920V0H0Z" transform="translate(0 1080)" fill="#fafafa"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(0 -1080)" clip-path="url(#clip-path)">
+    <path id="Path_369" data-name="Path 369" d="M0,1335.027H929.714V0H0Z" transform="matrix(0.985, 0.174, -0.174, 0.985, 1233.583, 925.009)" fill="#bae8e8"/>
+    <g id="Group_282" data-name="Group 282" transform="translate(-90.549 -20)">
+      <text id="nós" transform="translate(2027.549 1816) rotate(-90)" fill="#fff" font-size="339" font-family="OpenSans-Extrabold, Open Sans" font-weight="800"><tspan x="0" y="0">NÓS</tspan></text>
+    </g>
+  </g>
+</svg>

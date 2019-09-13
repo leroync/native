@@ -1,0 +1,46 @@
+section#home{
+    background-image: url(../img/fundo_home.svg);
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 100vh;
+    
+}
+
+section#home #image01{
+    width: 100%;
+    padding-top: 80px;
+    
+}
+
+section#home #image02{
+    width: 100%;
+    padding-top: 150px;
+    
+}
+
+#home button{
+    border-radius: 50px;
+    padding: 5px 30px;
+    background: linear-gradient(to top, #FDD247, #EABC28);
+    border: 0px;
+}
+
+section#nos{
+    
+    background-image: url(../img/bg_nos.svg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: contain;
+
+}
+
+#quadrados{
+    
+    background-image: url(../img/quadrados.svg);
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    display: inline-block;
+    background-repeat: no-repeat;
+    float: right;
+}
